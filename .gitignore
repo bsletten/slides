@@ -1,0 +1,6 @@
+.*.~undo-tree~
+build
+dist
+*.pyc
+*.egg-info
+uv.lock

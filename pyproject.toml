@@ -1,0 +1,9 @@
+[project]
+name = "slides"
+version = "0.1.0"
+description = "A tool for managing HTML presentations"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "rich>=14.2.0",
+]
